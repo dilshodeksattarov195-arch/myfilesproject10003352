@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvecrypt",
+        "uuid": 28300936,
+        "checksum": "p2wfzm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
